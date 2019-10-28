@@ -1,0 +1,9 @@
+My name is Tochukwu Okafor
+I am 26 years old
+I go to Carnegie Mellon University
+I love Asian food
+I love Python and SQL
+I am a programmer
+Please visit my github page and my LinkedIn page to learn more about my work
+I would love to leverage my coursework in working for a tech company someday
+
